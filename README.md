@@ -8,8 +8,6 @@ You can checkout the full description on Wikipedia: http://en.wikipedia.org/wiki
 
 ### Description
 
-(adapted from Wikipedia)
-
 The formula verifies a number against its included check digit, which is usually appended to a partial account number to generate the full account number. This full account number must pass the following test:
 
 * from the rightmost digit, which is the check digit, moving left, double the value of every other digit
